@@ -1,0 +1,16 @@
+.container {
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0 auto;
+    padding-top: 50px;
+    background: blue;
+    height: 100%;
+    width:50%;
+    overflow: auto;
+    padding: 15px;
+    justify-content: space-around;
+    align-content: flex-start;
+   
+  }
+

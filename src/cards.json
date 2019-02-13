@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Bulma",
+      "image": "https://i.pinimg.com/originals/73/18/ea/7318ea80d9039f18ae6637b00a96f2e4.jpg"
+     
+    },
+    {
+      "id": 2,
+      "name": "Goku",
+      "image": "http://pm1.narvii.com/6192/c2ae85f88e5afb45246202a104ceba90c8678bda_00.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Piccolo",
+      "image": "https://i.ebayimg.com/images/g/u4AAAOSwiDFYNGBm/s-l300.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Vegeta",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": 5,
+      "name": "Dragon",
+      "image": "https://i.pinimg.com/236x/77/2b/55/772b55e62cd36ee62554c47561fd4f85.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chi Chi",
+      "image": "https://www.drawingtutorials101.com/drawing-tutorials/Anime-and-Manga/Dragon-Ball-Z/chi-chi/how-to-draw-chi-chi-from-dragon-ball-z.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Krillin",
+      "image": "https://i.pinimg.com/originals/ef/62/1a/ef621a10b3f1616ceff8a9ea58e9e7da.png"
+    },
+    {
+      "id": 8,
+      "name": "Gohan",
+      "image": "http://images4.wikia.nocookie.net/__cb20100502143648/dragonball/images/8/85/GohanDebutNV.png"
+    },
+    {
+      "id": 9,
+      "name": "Trunks and Goten",
+      "image": "https://data.whicdn.com/images/60275891/large.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Buu",
+      "image": "https://i.pinimg.com/originals/13/42/d9/1342d9576ff0413b74b82b50274d8277.jpg"
+    },
+    {
+      "id": 11,
+      "name": "DBZ Villians",
+      "image": "https://i.ebayimg.com/images/g/sf0AAOSwbcJXPhCN/s-l300.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Chiaotzu",
+      "image": "https://pngimage.net/wp-content/uploads/2018/05/chaozu-png-5.png"
+    }
+  ]

@@ -16,7 +16,7 @@ class App extends Component {
     message: ""
    };
   clickPicture = id => {
-    // this randomly shows the cards
+    // this shows the cards
     const shuffledArray = this.shuffleArray(cards);
     this.setState({cards: shuffledArray});
     // if user clicks an image that has already been clicked the score state is set to 0 and the clickeadArray is emptied
